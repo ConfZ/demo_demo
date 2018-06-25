@@ -262,7 +262,7 @@ static const char *xmlW3CPIs[] = {
 };
 
 
-/* DEPR void xmlParserHandleReference(xmlParserCtxtPtr ctxt); */
+/* stDEPR void xmlParserHandleReference(xmlParserCtxtPtr ctxt); */
 static xmlEntityPtr xmlParseStringPEReference(xmlParserCtxtPtr ctxt,
                                               const xmlChar **str);
 

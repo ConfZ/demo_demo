@@ -1,5 +1,3 @@
-# demo 1
+# Demo
 
-This is new code.
-
-Test.
+This is a sample project with vulnerable C code.
